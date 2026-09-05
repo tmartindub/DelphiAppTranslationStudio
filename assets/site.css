@@ -1485,6 +1485,10 @@ h3 {
   color: #dcecff;
 }
 
+.feedback-copy p + p {
+  margin-top: 14px;
+}
+
 .site-footer {
   padding: 63px 0 92px;
   background: #081a30;
